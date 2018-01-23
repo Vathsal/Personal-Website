@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Aerial"
-baseurl = "http://example.org/"
+baseurl = "https://vathsal.github.io/Personal-Website/"
 publishDir = "docs"
 theme = "aerial"
 
