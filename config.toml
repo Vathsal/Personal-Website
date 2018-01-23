@@ -1,0 +1,37 @@
+languageCode = "en-us"
+title = "Aerial"
+baseurl = "http://example.org/"
+theme = "aerial"
+
+[params]
+  name = "Vathsal Veena Shashidhar"
+  about = "Computer Graphics Enthusiast &nbsp;&bull;&nbsp; VR Developer &nbsp;&bull;&nbsp; Opinionated"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin-square"
+  link = "#"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "Flickr"
+  icon = "flickr"
+  link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope"
+  link = "#"
