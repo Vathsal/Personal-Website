@@ -15,24 +15,24 @@ theme = "aerial"
 [[params.social]]
   medium = "Linkedin"
   icon = "linkedin-square"
-  link = "#"
+  link = "https://www.linkedin.com/in/vathsalvs"
 
 [[params.social]]
   medium = "Instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/picasiovs/"
 
 [[params.social]]
   medium = "Flickr"
   icon = "flickr"
-  link = "#"
+  link = "https://www.flickr.com/photos/140921183@N07/"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/Vathsal"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope"
-  link = "#"
+  link = "mailto:picasiovs@gmail.com"
