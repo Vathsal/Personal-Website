@@ -6,8 +6,8 @@ theme = "aerial"
 
 [params]
   name = "Vathsal Veena Shashidhar"
-  about = "Computer Graphics Enthusiast &nbsp;&bull;&nbsp; VR Developer &nbsp;&bull;&nbsp; Opinionated"
-  copyright = "Untitled"
+  about = "Computer Graphics Enthusiast &nbsp;&bull;&nbsp; VR/AR Developer &nbsp;&bull;&nbsp; Opinionated"
+  copyright = "vathsalvs"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
