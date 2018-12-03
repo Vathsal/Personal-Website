@@ -25,7 +25,7 @@ theme = "aerial"
 [[params.social]]
   medium = "Flickr"
   icon = "flickr"
-  link = "https://www.flickr.com/photos/140921183@N07/"
+  link = "https://vathsal.github.io/resume/"
 
 [[params.social]]
   medium = "Github"
